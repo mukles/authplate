@@ -9,16 +9,16 @@
   "themeConfig": [],
   "arrangement": [
     {
+      "type": "heading",
+      "groupName": "fadfa",
+      "targetPath": ""
+    },
+    {
       "type": "folder",
       "targetPath": "src/content/about",
       "groupName": "about-list",
       "include": "*md",
       "exclude": ""
-    },
-    {
-      "type": "heading",
-      "groupName": "fadfa",
-      "targetPath": ""
     }
   ],
   "showCommitModal": false
