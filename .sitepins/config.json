@@ -19,6 +19,11 @@
       "groupName": "about-list",
       "include": "*md",
       "exclude": ""
+    },
+    {
+      "type": "file",
+      "targetPath": "src/content/about/_index.md",
+      "groupName": "about-list"
     }
   ],
   "showCommitModal": false
