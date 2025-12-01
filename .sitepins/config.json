@@ -6,10 +6,15 @@
   "content": {
     "root": "src/content"
   },
-  "code": {
-    "root": ""
-  },
   "themeConfig": [],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "src/content/about",
+      "groupName": "about-list",
+      "include": "*md",
+      "exclude": ""
+    }
+  ],
   "showCommitModal": false
 }
